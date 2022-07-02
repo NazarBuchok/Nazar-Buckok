@@ -79,7 +79,7 @@
 			animation: none !important;
 		}
 
-	a {
+/*	a {
 		-moz-transition: border-color 0.2s ease-in-out;
 		-webkit-transition: border-color 0.2s ease-in-out;
 		-ms-transition: border-color 0.2s ease-in-out;
@@ -90,7 +90,7 @@
 		text-decoration: none;
 	}
 
-		a:hover {
+		/*a:hover {
 			border-color: transparent;
 		}
 
@@ -529,7 +529,7 @@
 		#header nav {
 			margin: 1.5em 0 0 0;
 		}
-
+/*
 			#header nav li {
 				-moz-animation: nav-icons 0.5s ease-in-out forwards;
 				-webkit-animation: nav-icons 0.5s ease-in-out forwards;
